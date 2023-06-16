@@ -1,7 +1,4 @@
-
-<h1 align=“center”>
-ft_printf
-</h1>
+# ft_printf
 
 This project is an attempt to recreate the printf function in C language. The printf function is a C library function that writes formatted data to the standard output stream (stdout) according to a given format. This project aims to mimic the basic functionality and some additional features of the printf function.
 
